@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, i'm Fylype Wase</h1>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fylypewase/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/fwase/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fylypewcl/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/fylypewase/)
+
+### Who i'm?
+
 ### Abstract
 
 - 👨‍💻 I'm currently working half-time at **Jusbrasil**.
@@ -20,8 +27,7 @@
 
 ### Find me around the web 🌎:
 
-- 📫 How to reach me **fylypexp@gmail.com**
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/fylypewase/">LinkedIn</a>.
+- 📫 How to reach me **fylypexp@gmail.com*
 
 <!--
 **fwase/fwase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
