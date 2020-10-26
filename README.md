@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, i'm Fylype Wase</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fwase" alt="fwase" /> </p>
 
 ### Abstract
 
@@ -7,6 +8,9 @@
 - 💙 Interests: games 👾.
 
 ### Languages and Tools
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwase&layout=compact&hide=html" alt="fwase" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fwase&show_icons=true" alt="fwase" /></p>
+
 
 ### Find me around the web 🌎:
 
