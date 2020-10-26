@@ -9,7 +9,7 @@
 
 ### Languages and Tools
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwase&layout=compact&hide=html" alt="fwase" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fwase&show_icons=true" alt="fwase" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fwase&show_icons=true&count_private=true" alt="fwase" /></p>
 
 
 ### Find me around the web 🌎:
