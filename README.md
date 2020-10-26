@@ -27,7 +27,7 @@
 
 ### Find me around the web 🌎:
 
-- 📫 How to reach me **fylypexp@gmail.com*
+- 📫 How to reach me **fylypexp@gmail.com**
 
 <!--
 **fwase/fwase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
