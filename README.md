@@ -9,7 +9,7 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently working half-time at **Jusbrasil**.
+- 👨‍💻 I'm currently working full time at **Jusbrasil**.
 - 🌱 Learning more about and studying: **Spark, Data Mining and Machine Learning algorithms**.
 - 💙 Interests: games 👾.
 
