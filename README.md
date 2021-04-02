@@ -20,9 +20,11 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" alt="docker" width="40" height="40"/>
   <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="mysql" width="80" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mysql/mysql-original-wordmark.svg" alt="spark" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/3380462?s=200&v=4" alt="prometheus" width="40" height="40"/>
+  <img src="https://github.com/grafana/grafana/blob/master/docs/logo-horizontal.png" alt="grafana" width="100" height="40"/>
 </p>
 
 ### Find me around the web 🌎:
